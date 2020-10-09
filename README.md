@@ -14,6 +14,3 @@ module.exports = {
 
 Replace empty strings with your keys.
 
-Deployed link:- https://foodking-kansal.herokuapp.com/
-
-Any suggestion/improvement is welcomed
